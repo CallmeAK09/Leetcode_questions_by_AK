@@ -1,15 +1,13 @@
 # 📘 My LeetCode Easy Sheet BY AK
 
-Curated list of easy problems from LeetCode for DSA fundamentals.
+Curated list of easy problems from LeetCode.
 
 ---
 
 ## 🔗 Platform
-MY LeetCode Profile: https://leetcode.com/](https://leetcode.com/u/Ambadi_Kannan/
+MY LeetCode Profile: https://leetcode.com/u/Ambadi_Kannan/
 
 ---
-
-## 📂 Arrays
 
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -29,11 +27,6 @@ MY LeetCode Profile: https://leetcode.com/](https://leetcode.com/u/Ambadi_Kannan
 - [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
 - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
-
----
-
-## 📂 Strings
-
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
@@ -49,11 +42,6 @@ MY LeetCode Profile: https://leetcode.com/](https://leetcode.com/u/Ambadi_Kannan
 - [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [Rotate String](https://leetcode.com/problems/rotate-string/)
 - [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
-
----
-
-## 📂 Math
-
 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [Power of Two](https://leetcode.com/problems/power-of-two/)
@@ -65,26 +53,11 @@ MY LeetCode Profile: https://leetcode.com/](https://leetcode.com/u/Ambadi_Kannan
 - [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
-
----
-
-## 📂 Binary Search
-
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-
----
-
-## 📂 Matrix
-
 - [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 - [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
-
----
-
-## 📂 Misc
-
 - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 - [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -92,17 +65,7 @@ MY LeetCode Profile: https://leetcode.com/](https://leetcode.com/u/Ambadi_Kannan
 - [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 - [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 - [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
-
----
-
-## 🆕 Latest Problem Example
-
 - [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/)
 
----
 
-## 🎯 Goal
-
-- Build strong fundamentals
-- Prepare for coding interviews
-- Practice daily 🚀
+## More Qestions comming soon..
