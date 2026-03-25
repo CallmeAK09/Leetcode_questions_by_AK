@@ -5,7 +5,7 @@ Curated list of easy problems from LeetCode for DSA fundamentals.
 ---
 
 ## 🔗 Platform
-LeetCode Profile: https://leetcode.com/
+MY LeetCode Profile: https://leetcode.com/](https://leetcode.com/u/Ambadi_Kannan/
 
 ---
 
